@@ -8,6 +8,4 @@ redirect_from:
 ---
 
 
-WIP
-======
 a 5 years of experience in computer vision software engineer, focused on diffusion models and model inference acceleration.
